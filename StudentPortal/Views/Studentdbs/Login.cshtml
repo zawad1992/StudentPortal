@@ -1,0 +1,47 @@
+﻿@model StudentPortal.Models.StdLoginModel
+
+
+@{
+    ViewBag.Title = "Log in";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+</hgroup>
+
+<section id="loginForm">
+<h2>Use a local account to log in.</h2>
+@using (Html.BeginForm(new { ReturnUrl = ViewBag.ReturnUrl })) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Log in Form</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.EMAIL)
+                @Html.TextBoxFor(m => m.EMAIL)
+                @Html.ValidationMessageFor(m => m.EMAIL)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.PASSWORD)
+                @Html.PasswordFor(m => m.PASSWORD)
+                @Html.ValidationMessageFor(m => m.PASSWORD)
+            </li>
+            <li>
+                @Html.CheckBoxFor(m => m.RememberMe)
+                @Html.LabelFor(m => m.RememberMe, new { @class = "checkbox" })
+            </li>
+        </ol>
+        <input type="submit" value="Log in" />
+    </fieldset>
+    <p>
+        @Html.ActionLink("Register", "Create") if you don't have an account.
+    </p>
+}
+</section>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

@@ -1,0 +1,106 @@
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\StudentPortal.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\StudentPortal.pdb
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Antlr3.Runtime.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.AspNet.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.Core.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\EntityFramework.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Newtonsoft.Json.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.Formatting.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.WebRequest.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Helpers.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.WebHost.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Mvc.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Optimization.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Razor.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Deployment.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Razor.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebGrease.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.Data.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.WebData.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\EntityFramework.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Newtonsoft.Json.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.Formatting.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.WebRequest.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Helpers.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.WebHost.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Mvc.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Razor.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Deployment.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Razor.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.Data.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.WebData.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.AspNet.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.Core.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.dll
+E:\Visual Studio 2010\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.pdb
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\StudentPortal.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\StudentPortal.pdb
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Antlr3.Runtime.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.AspNet.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.Core.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\EntityFramework.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Newtonsoft.Json.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.Formatting.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.WebRequest.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Helpers.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.WebHost.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Mvc.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Optimization.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Razor.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Deployment.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Razor.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebGrease.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.Data.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.WebData.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\EntityFramework.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Newtonsoft.Json.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.Formatting.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Net.Http.WebRequest.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Helpers.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Http.WebHost.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Mvc.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.Razor.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Deployment.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\System.Web.WebPages.Razor.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.Data.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\WebMatrix.WebData.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.AspNet.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.Core.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OAuth.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csprojResolveAssemblyReference.cache
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.dll
+D:\Zawad Doc\Visual Studio 2010\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.pdb
